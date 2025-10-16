@@ -1,4 +1,6 @@
 1)create test.txt
 3)commit 2 good
 4)commit 3 good
+5) row for stash
+
 
